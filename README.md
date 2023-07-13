@@ -6,7 +6,8 @@
 
 On Windows, run:\
 `venv\Scripts\activate.bat` - will run virtual environment\
-`venv\Scripts\activate.ps1` - with powershell
+`venv\Scripts\activate.ps1` - with powershell\
+`venv\Scripts\activate` - works as well
 
 On Unix or MacOS, run:\
 `source venv/bin/activate` - will run virtual environment
